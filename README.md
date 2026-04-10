@@ -56,7 +56,7 @@ A **Star Schema** model was implemented for analytical efficiency.
 - `Dim_Date`
 
 ### 📌 Star Schema Diagram:
-![Star Schema]()
+![Star Schema](/img/star%20schema.png)
 
 ---
 
