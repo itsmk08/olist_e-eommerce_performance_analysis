@@ -56,7 +56,7 @@ A **Star Schema** model was implemented for analytical efficiency.
 - `Dim_Date`
 
 ### 📌 Star Schema Diagram:
-![Star Schema](images/star_schema.png)
+![Star Schema](/img/star schema.png)
 
 ---
 
@@ -116,7 +116,7 @@ Visuals:
 - Target vs actual performance
 
 📸 Dashboard Preview:
-![Executive Dashboard](images/executive_dashboard.png)
+![Executive Dashboard](/img/executive.png)
 
 ---
 
@@ -129,7 +129,7 @@ Features:
 - Profitability analysis
 
 📸 Dashboard Preview:
-![Deep Dive Dashboard](images/deep_dive_dashboard.png)
+![Deep Dive Dashboard](/img/deep analysis.png)
 
 ---
 
